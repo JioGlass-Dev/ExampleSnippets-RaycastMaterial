@@ -1,0 +1,34 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: JMRSDKExampleSnippets
+  name: JMRSDKExampleSnippets
+  href: api/JMRSDKExampleSnippets.html
+  commentId: N:JMRSDKExampleSnippets
+  fullName: JMRSDKExampleSnippets
+  nameWithType: JMRSDKExampleSnippets
+- uid: JMRSDKExampleSnippets.ChangeRaycastMaterial
+  name: ChangeRaycastMaterial
+  href: api/JMRSDKExampleSnippets.ChangeRaycastMaterial.html
+  commentId: T:JMRSDKExampleSnippets.ChangeRaycastMaterial
+  fullName: JMRSDKExampleSnippets.ChangeRaycastMaterial
+  nameWithType: ChangeRaycastMaterial
+- uid: JMRSDKExampleSnippets.ChangeRaycastMaterial.laser
+  name: laser
+  href: api/JMRSDKExampleSnippets.ChangeRaycastMaterial.html#JMRSDKExampleSnippets_ChangeRaycastMaterial_laser
+  commentId: F:JMRSDKExampleSnippets.ChangeRaycastMaterial.laser
+  fullName: JMRSDKExampleSnippets.ChangeRaycastMaterial.laser
+  nameWithType: ChangeRaycastMaterial.laser
+- uid: JMRSDKExampleSnippets.ChangeRaycastMaterial.OnSelectClicked(SelectClickEventData)
+  name: OnSelectClicked(SelectClickEventData)
+  href: api/JMRSDKExampleSnippets.ChangeRaycastMaterial.html#JMRSDKExampleSnippets_ChangeRaycastMaterial_OnSelectClicked_SelectClickEventData_
+  commentId: M:JMRSDKExampleSnippets.ChangeRaycastMaterial.OnSelectClicked(SelectClickEventData)
+  fullName: JMRSDKExampleSnippets.ChangeRaycastMaterial.OnSelectClicked(SelectClickEventData)
+  nameWithType: ChangeRaycastMaterial.OnSelectClicked(SelectClickEventData)
+- uid: JMRSDKExampleSnippets.ChangeRaycastMaterial.OnSelectClicked*
+  name: OnSelectClicked
+  href: api/JMRSDKExampleSnippets.ChangeRaycastMaterial.html#JMRSDKExampleSnippets_ChangeRaycastMaterial_OnSelectClicked_
+  commentId: Overload:JMRSDKExampleSnippets.ChangeRaycastMaterial.OnSelectClicked
+  isSpec: "True"
+  fullName: JMRSDKExampleSnippets.ChangeRaycastMaterial.OnSelectClicked
+  nameWithType: ChangeRaycastMaterial.OnSelectClicked
