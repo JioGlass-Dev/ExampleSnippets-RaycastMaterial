@@ -2,12 +2,12 @@
   "api/JMRSDKExampleSnippets.ChangeRaycastMaterial.html": {
     "href": "api/JMRSDKExampleSnippets.ChangeRaycastMaterial.html",
     "title": "Class ChangeRaycastMaterial | JMR Samples",
-    "keywords": "Class ChangeRaycastMaterial Changes Raycast Material to the focused object and select button is triggered. Inheritance Object ChangeRaycastMaterial Implements ISelectClickHandler Namespace : JMRSDKExampleSnippets Assembly : cs.temp.dll.dll Syntax public class ChangeRaycastMaterial : MonoBehaviour, ISelectClickHandler Fields laser PointerLaserUnity holds reference to the material of raycast line renderer Declaration public PointerLaserUnity laser Field Value Type Description PointerLaserUnity Methods OnSelectClicked(SelectClickEventData) On select button click assign the focused object material to the raycast material. Declaration public void OnSelectClicked(SelectClickEventData eventData) Parameters Type Name Description SelectClickEventData eventData Data related to select click event Implements ISelectClickHandler"
+    "keywords": "Class ChangeRaycastMaterial Changes Raycast Material to the focused object when select button is triggered. Inheritance Object ChangeRaycastMaterial Implements ISelectClickHandler Namespace : JMRSDKExampleSnippets Assembly : cs.temp.dll.dll Syntax public class ChangeRaycastMaterial : MonoBehaviour, ISelectClickHandler Fields laser PointerLaserUnity holds reference to the material of raycast line renderer Declaration public PointerLaserUnity laser Field Value Type Description PointerLaserUnity Methods OnSelectClicked(SelectClickEventData) On select button click assign the focused object material to the raycast material. Declaration public void OnSelectClicked(SelectClickEventData eventData) Parameters Type Name Description SelectClickEventData eventData Data related to select click event Implements ISelectClickHandler"
   },
   "api/JMRSDKExampleSnippets.html": {
     "href": "api/JMRSDKExampleSnippets.html",
     "title": "Namespace JMRSDKExampleSnippets | JMR Samples",
-    "keywords": "Namespace JMRSDKExampleSnippets Classes ChangeRaycastMaterial Changes Raycast Material to the focused object and select button is triggered."
+    "keywords": "Namespace JMRSDKExampleSnippets Classes ChangeRaycastMaterial Changes Raycast Material to the focused object when select button is triggered."
   },
   "index.html": {
     "href": "index.html",
