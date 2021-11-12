@@ -5,7 +5,7 @@ using UnityEngine;
 namespace JMRSDKExampleSnippets
 {
     /// <summary>
-    /// Changes Raycast Material to the focused object and select button is triggered.
+    /// Changes Raycast Material to the focused object when select button is triggered.
     /// </summary>
     public class ChangeRaycastMaterial : MonoBehaviour, ISelectClickHandler
     {
