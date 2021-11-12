@@ -11,8 +11,8 @@
   },
   "index.html": {
     "href": "index.html",
-    "title": "ExampleSnippets-RaycastMaterial | JMR Samples",
-    "keywords": "ExampleSnippets-RaycastMaterial Example for customizing material of Raycast"
+    "title": "Raycast Material | JMR Samples",
+    "keywords": "Raycast Material Example for customizing material of visible Raycast. Scripts ChangeRaycastMaterial.cs Example to change Raycast Material to the focused object when select button is triggered. Changing raycast material to another material. cs PointerLaserUnity laser = FindObjectOfType<PointerLaserUnity>(); laser.LineMaterial = material; How to use? Download and unzip this project. Open the project using Unity Hub. Download and import the latest version of JMRSDK package. Open and play the RaycastMaterial scene from Assets/Scenes folder."
   },
   "manual/JMRSamples.html": {
     "href": "manual/JMRSamples.html",
